@@ -6,6 +6,8 @@
 - Freak Apps 
 
 ### Vital Contacts
+
+- Official Letterhead | <FreakVenturesLtd@gmail.com>
 - Core Dev | Suyash Dixit | <091rabbytes@gmail.com>
 - S/W & App Development |  <TheFreakApps@gmail.com>
 - Informal News & Newsletters | <FreakScenesInc@gmail.com>
