@@ -3,7 +3,7 @@
 ### Initiations
 - JagooBikesXXX | Hourly Bike Rental Servive
 - Visionary Freak | Motivational Channel on Youtube
-- Freak Apps 
+- Freak Apps | Android App Development Studio
 
 ### Vital Contacts
 
