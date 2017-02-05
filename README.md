@@ -1,7 +1,7 @@
 ## Freak Ventures Ltd.
 
 ### Initiations
-| # | --- | ---- |
+| ---- | ---- | ---- |
 |1.| [Freak Apps](http://FreakAppsAndroid.github.io) | Android App Development |
 |2.| [TopFam.Online](http//topfam.online) | Top 100 celeb reviews |
 
