@@ -3,7 +3,8 @@ Parent/Umbrella Holdings firm. LLC.
 ### Freak Ventures Ltd.
 
 ## Properties: Creations and Acquisitions
- No. | Venture | Niche 
+ No. | Venture | Niche   
+     
  ---- | ---- | ----  
 
 # Acquisitions
